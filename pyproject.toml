@@ -18,5 +18,5 @@ namespaces = true
 #
 [project]
 version = "0.0.0.dev1"
-name = "PyProtocol"
+name = "ProtocolMan"
 requires-python = ">=3.10"
